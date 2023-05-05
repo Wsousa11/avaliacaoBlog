@@ -1,0 +1,25 @@
+img{
+    margin: 10px 0px;
+    
+    
+}
+.link{
+    
+    justify-content: center;
+    text-decoration: none;
+    padding: 10px;
+    background-color: white;
+    border-width: 2px;
+    border-style: double;
+    border-radius: 10px;
+}
+.link:hover {
+    transform: scale(1.2);
+
+}
+.l{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}

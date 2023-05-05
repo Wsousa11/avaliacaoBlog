@@ -1,0 +1,15 @@
+form{
+    text-align: center;
+    margin-top: 20px;
+}
+form label{
+    display: block;
+}
+.formulario{
+    border-width: 5px;
+    border-color: white;
+    border-style: double;
+    padding: 10px;
+
+
+}
